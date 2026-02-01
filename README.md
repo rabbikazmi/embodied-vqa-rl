@@ -4,7 +4,7 @@ This repository contains an autonomous agent designed to navigate the AI2-THOR e
 
 ## Demonstration
 <p align="center">
-  <img src="simulation_potted plant.gif" width="500">
+  <img src="assests/simulation_potted plant.gif" width="500">
 </p>
 
 ## Project Overview
