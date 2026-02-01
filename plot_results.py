@@ -25,8 +25,8 @@ def plot_reward_curve():
         plt.grid(True, linestyle='--', alpha=0.6)
         
         # Save as image for README
-        plt.savefig('reward_curve.png')
-        print("Success! Created 'reward_curve.png'. You can now add this to your README.")
+        plt.savefig('reward_curve1.png')
+        print("Success! Created 'reward_curve1.png'. You can now add this to your README.")
         
     except FileNotFoundError:
         print("Error: agent_log.jsonl not found.")
