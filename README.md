@@ -3,7 +3,9 @@
 This repository contains an autonomous agent designed to navigate the AI2-THOR environment. The system integrates real-time object detection with a search policy to solve Visual Question Answering (VQA) tasks.
 
 ## Demonstration
-![Agent Simulation](simulation_potted plant.gif)
+<p align="center">
+  <img src="simulation_potted plant.gif" width="500">
+</p>
 
 ## Project Overview
 The agent is designed to locate specific objects within a 3D kitchen environment. It utilizes a YOLOv8 vision model to interpret the scene and a reinforcement learning-based reward structure to optimize search paths.
@@ -30,5 +32,5 @@ The agent follows a modular architecture:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/rabbikazmi/embodied-vqa-rl.git](https://github.com/rabbikazmi/embodied-vqa-rl.git)
+   git clone repo-url
    cd vqa_final
