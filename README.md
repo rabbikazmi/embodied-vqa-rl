@@ -42,7 +42,7 @@ The agent follows a modular architecture:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone rabbikazmi/embodied-vqa-rl
    cd vqa_final
    ```
 
